@@ -1,0 +1,5 @@
+app:
+  title: "法规查询 API"
+  description: "该API用于管理法规库"
+  version: "1.0.0"
+  debug: True
